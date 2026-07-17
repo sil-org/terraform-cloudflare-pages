@@ -10,4 +10,4 @@ jobs:
     with:
       test-dir: test
       # validate with the earliest version allowed by required_version in versions.tf
-      terraform-version: '~> 1.0'
+      terraform-version: '~> 1.8'
